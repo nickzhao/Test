@@ -14,7 +14,7 @@
     <script type="text/javascript" src="Extjs/Extjs_Intellisense.js"></script>
     <% } %>
     <script language="javascript" type="text/javascript">
-    //测试
+    //测
         Ext.onReady(function () {
             var datas = [[100, '张三', 24, new Date(1986, 10, 27), false, false], [101, '李四', 26, new Date(1986, 10, 29), true, true], [102, '王五', 28, new Date(1986, 10, 30), false, false]];
             Ext.create('Ext.grid.RowNumberer', { text: '行号', width: 35 });
